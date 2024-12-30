@@ -37,6 +37,7 @@ mypy = "*"
 pylint = "*"
 pytest = "*"
 pytest-mock = "*"
+pytest-cov = "*"
 rstcheck = "*"
 
 [tool.poetry.scripts]
